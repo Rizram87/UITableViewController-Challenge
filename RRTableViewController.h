@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RRTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Rizki Ramadhan on 10/22/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RRTableViewController : UITableViewController
 
 @end
-
